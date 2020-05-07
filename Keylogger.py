@@ -18,7 +18,7 @@ class Keylogger:
         self.password = password
 
     '''
-    Append string to the log.
+    Append the string to the log.
     '''
     def append_to_log(self, string):
         self.log += string
